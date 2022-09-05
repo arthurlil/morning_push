@@ -1,27 +1,27 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wxf48f43a04f1fb175",
+"app_id": "wx85c822c79c9544f9",
 # 公众号appSecret
-"app_secret": "84e5a256b288704ba413ee226e98bece",
+"app_secret": "3f77ba34498b169e1591246ae1229bc8",
 # 模板消息id
-"template_id": "k2nYaB9BiutBiVz1EkYHYycA3QC4ZEyEDjBoskbpbWo",
+"template_id": "AXZZIR8dQVxdY0_H6JRgWLbiWJ8ASpVUXaIrKdfXfEc",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oj_fW5h5gmLI5eirVm6ELs4k7lLU","oj_fW5pA4Ui45PNFSSegFsX6UJrk"],
+"user": ["oofIf5qTHpqiEZv5iGm-CATRsFvE","oofIf5nzl6I8NqqRCBqlQHp2sL9s"],
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "88deaf6aabf143c7b3af6b168380f279",
+"weather_key": "e46d121f6ca34e67873b1c12b5150235",
 # 天行数据apikey
-"tian_api": "90342c0d61a9c7cf13dc9a9578bf157d",
+"tian_api": "335fa8ece5185e4bd5050797e8304cd8",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "大同市",
+"region": "桂林",
 # 生日1
-"birthday1": {"name": "小宝", "birthday": "2000-04-16"},
+"birthday1": {"name": "小李", "birthday": "2003-10-09"},
 # 生日2
-#"birthday2": {"name": "小林", "birthday": "r1997-01-01"},
+"birthday2": {"name": "小郭", "birthday": "2003-09-15"},
 # 在一起的日子，格式同上
-"love_date": "2018-02-02",
+"love_date": "2021-10-27",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
